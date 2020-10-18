@@ -1,0 +1,15 @@
+{
+  "name": "app_pagos",
+  "version": "1.0.0",
+  "description": "App de Pagos en Linea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omar O",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0"
+  }
+}
